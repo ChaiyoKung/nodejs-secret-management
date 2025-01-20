@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-secret-management",
+  "version": "1.0.0",
+  "description": "A demo repository showcasing best practices for securely managing secrets in Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
