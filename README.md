@@ -21,3 +21,7 @@ Run the application
 ```bash
 pnpm start
 ```
+
+## Blog
+
+📖 Read me: https://medium.com/@chaiyokung/เก็บ-secret-อย่างปลอดภัยใน-node-js-e7149e9c5b28
