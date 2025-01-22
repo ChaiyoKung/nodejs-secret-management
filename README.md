@@ -4,7 +4,7 @@ A demo repository showcasing best practices for securely managing secrets in Nod
 
 ## Getting Started
 
-Create a `.env` file in the root of the, you can use the `.env.example` file as a template.
+Create a `.env` file in the root of the project, you can use the `.env.example` file as a template.
 
 ```bash
 cp .env.example .env
