@@ -9,4 +9,4 @@ const movies = database.collection("movies");
 const result = await movies.find().toArray();
 console.log(result);
 
-client.close();
+await client.close();
